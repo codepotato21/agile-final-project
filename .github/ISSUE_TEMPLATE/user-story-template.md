@@ -10,8 +10,8 @@ assignees: ''
 
 ###User Story Definition
 **As a** [role],
-**I should** [function],
-**So that** [Outcome]
+**I need** [function],
+**So That** [Outcome]
 
 ###Assumptions & Details
 * Add known details and existing assumptions related to the user story for better readability and understanding of the story
