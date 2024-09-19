@@ -14,11 +14,12 @@ assignees: ''
 **So that** [Outcome]
 
 ###Assumptions & Details
-###Add known details and existing assumptions related to the user story for better readability and understanding of the story
+* Add known details and existing assumptions related to the user story for better readability and understanding of the story
 
 ###Add Acceptance Criteria/Definition of Done
 
-```Given that [some context]
-   When [an event occurs]
-   Then [Outcome of the event]
+``` gherkin
+Given that [some context]
+When [an event occurs]
+Then [Outcome of the event is observed]
 ```
